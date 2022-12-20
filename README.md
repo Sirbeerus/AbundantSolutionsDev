@@ -1,2 +1,2 @@
 # AbundantSolutionsDev
-Static Site
+/= Static Site
